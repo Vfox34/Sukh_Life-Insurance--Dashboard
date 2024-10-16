@@ -3,6 +3,8 @@
 
 This project presents a comprehensive analysis of Insurance data using Power BI.
 
+![Project-2_page-0001](https://github.com/user-attachments/assets/ba7b9511-8a44-4d62-b37a-7afca4228ee8)
+
 ## Dataset
 The dataset contains insurance policy records, including PolicyNumber, CustomerID, Gender, Age, PolicyType, PremiumAmount, CoverageAmount, and claims details. It enables analysis of trends, customer demographics, and claim behaviors.
 
